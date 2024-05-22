@@ -1,0 +1,3 @@
+- Hi my name is Shaun Keane Shooter
+- I am 18 years, fair in complexion and about 184cm tall
+- I do computer science in KNUST and I am in cs 1
